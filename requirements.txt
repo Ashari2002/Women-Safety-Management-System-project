@@ -1,0 +1,10 @@
+1. open venv 
+	Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+	venv\Scripts\activate
+2. run app.py
+	python app.py
+3. if sms doesn't deliver 
+	run test.py
+	then copy the IP address and give me that 
+	i will add the ip to the white list 
+4. done 
